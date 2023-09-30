@@ -1,2 +1,2 @@
 # msia_414
-Folder for all things text analytics
+Repo for all things text analytics
